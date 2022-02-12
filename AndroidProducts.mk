@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/spark_miatoll.mk
+    $(LOCAL_DIR)/streak_miatoll.mk
 
 COMMON_LUNCH_CHOICES := \
-    spark_miatoll-user \
-    spark_miatoll-userdebug \
-    spark_miatoll-eng
+    streak_miatoll-user \
+    streak_miatoll-userdebug \
+    streak_miatoll-eng
