@@ -88,7 +88,7 @@ void load_device_properties() {
         property_override("ro.build.description", "joyeuse_global-user 11 RKQ1.200826.002 V12.5.2.0.RJZMIXM release-keys");
     }
 
-    property_override("ro.build.fingerprint", "google/raven/raven:12/SQ1D.220205.003/8069835:user/release-keys");
+    property_override("ro.build.fingerprint", "google/raven/raven:12/S3B1.220218.004/8242181:user/release-keys");
 }
 
 void vendor_load_properties() {
