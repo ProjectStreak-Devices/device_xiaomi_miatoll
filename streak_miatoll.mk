@@ -17,7 +17,9 @@ $(call inherit-product, device/xiaomi/miatoll/device.mk)
 # Inherit Google Camera
 $(call inherit-product, vendor/xiaomi/miatoll-gcam/miatoll-gcam-vendor.mk)
 
+# Project Streak Props
 TARGET_BOOT_ANIMATION_RES := 1080
+STREAK_BUILD_TYPE := OFFICIAL
 
 PRODUCT_NAME := streak_miatoll
 PRODUCT_DEVICE := miatoll
