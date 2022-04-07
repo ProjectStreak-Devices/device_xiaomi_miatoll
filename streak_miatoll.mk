@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2021 The The sparkos
+# Copyright (C) 2022 Project Streak
 #
 # SPDX-License-Identifier: Apache-2.0
 #
@@ -8,10 +8,10 @@
 $(call inherit-product, $(SRC_TARGET_DIR)/product/core_64_bit.mk)
 $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 
-# Inherit from miatoll  device
+# Inherit from miatoll device
 $(call inherit-product, device/xiaomi/miatoll/device.mk)
 
-# Inherit some common ProjectStreak stuff.
+# Inherit some common Project Streak stuff.
 $(call inherit-product, vendor/streak/config/common_full_phone.mk)
 
 # ProjectStreak properties

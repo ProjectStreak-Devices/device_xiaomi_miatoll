@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2021 The The Elixir Project
+# Copyright (C) 2022 Project Streak
 #
 # SPDX-License-Identifier: Apache-2.0
 #
